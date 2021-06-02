@@ -1,4 +1,4 @@
-package com.michaelpage.utility;
+package com.org.utility;
 
 import java.io.FileInputStream;
 import java.util.HashMap;
