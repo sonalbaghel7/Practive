@@ -1,4 +1,4 @@
-package com.michaelpage.utility;
+package com.org.utility;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
@@ -18,7 +18,7 @@ import org.testng.IInvokedMethodListener;
 import org.testng.ITestContext;
 import org.testng.ITestResult;
 import org.testng.annotations.DataProvider;
-import com.michaelpage.utility.*;
+import com.org.utility.*;
 import org.testng.ITestContext;
 import org.testng.annotations.DataProvider;
 
